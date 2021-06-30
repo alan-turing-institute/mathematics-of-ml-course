@@ -25,9 +25,9 @@ This repository contains the practical session notebooks for the
 | Activity | Topic |
 | ---- | ---- |
 | Lecture 5 | Convex Loss Surrogates. Gradient Descent |
-| Practical 5 | Optimization (Exercises 1-3) |
+| Practical 5 | Optimization (Exercises 1-4) |
 | Lecture 6 | Mirror Descent |
-| Practical 6 | Optimization (Exercises 4-6) |
+| Practical 6 | Optimization (Exercises 5-6) |
 
 **DAY 4**
 | Activity | Topic |
