@@ -3,8 +3,8 @@
 ## Option 1
 
 To start the practical sessions using Google Colab:
-- Open https://colab.research.google.com/;
-- Go to `File->Open Notebook`;
+- Open https://colab.research.google.com/
+- Go to `File->Open Notebook`
 - Select the `GitHub` tab in the pop-up window;
 - Enter `alan-turing-institute/mathematics-of-ml-course` in the search bar;
 - Select the practical session corresponding to the schedule outlined at the root of this repository.
